@@ -59,8 +59,6 @@ Software Design Principles:
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 - **src/** – Core source code  
   - **primitives/** – Geometric objects (spheres, planes, etc.)  
   - **lighting/** – Light sources and lighting calculations  

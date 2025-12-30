@@ -59,24 +59,9 @@ Software Design Principles:
 
 ## 📁 Project Structure
 
-- **src/** – Core source code  
-  - **primitives/** – Geometric objects (spheres, planes, etc.)  
-  - **lighting/** – Light sources and lighting calculations  
-  - **renderer/** – Ray tracing engine and rendering pipeline  
-  - **scene/** – Scene description and configuration  
-  - **utils/** – Mathematical utilities and helper functions  
+(![Project Structure](...))
+<img width="854" height="535" alt="image" src="https://github.com/user-attachments/assets/60aee334-05bc-4aa9-a168-5bc9da9c57ac" />
 
-- **images/** – Rendered output images  
-
-- **unittests/** – Unit tests for core rendering logic  
-
-- **out/** – Generated build / output files  
-
-- **.gitignore** – Git ignore configuration  
-
-- **Ray-Tracing.iml** – Project configuration file  
-
-- **README.md** – Project documentation
 --------------------------------------------------------------------
 
 ## ▶️ How to Run the Project

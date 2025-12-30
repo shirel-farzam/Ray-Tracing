@@ -59,7 +59,6 @@ Software Design Principles:
 
 ## 📁 Project Structure
 
-(![Project Structure](...))
 <img width="854" height="535" alt="image" src="https://github.com/user-attachments/assets/60aee334-05bc-4aa9-a168-5bc9da9c57ac" />
 
 --------------------------------------------------------------------

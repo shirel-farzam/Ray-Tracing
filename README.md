@@ -89,7 +89,7 @@ Running the Renderer:
 
 ## 🛠️ Technologies Used
 
-- Python
+- Java
 - Linear Algebra
 - Computer Graphics Principles
 - Unit Testing
